@@ -1,2 +1,2 @@
 # experimental_site
-экспериментальный сайт с html и css
+практика на макета с приемами html и css
